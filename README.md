@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm DINESH A</h1>
+<h3 align="center">DevOps Enthusiast</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesharivappagari&label=Profile%20views&color=0e75b6&style=flat" alt="dinesharivappagari" /> </p>
 
-- 🌱 I’m currently learning **Cloud computing, DevOps, Automation**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesharivappagari" alt="dinesharivappagari" /></a> </p>
+
+- 🌱 I’m currently learning **Cloud computing, DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinesharivappagari?tab=repositories](https://github.com/dinesharivappagari?tab=repositories)
 
