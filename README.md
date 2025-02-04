@@ -9,4 +9,4 @@
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshariv&show_icons=true&locale=en&layout=compact" alt="dineshariv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesharivappagari&show_icons=true&locale=en&layout=compact" alt="dineshariv" /></p>
