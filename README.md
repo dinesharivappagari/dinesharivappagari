@@ -40,4 +40,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinesharivappagari&show_icons=true&locale=en" alt="dinesharivappagari" height='190'width='450' /></p>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesharivappagari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesharivappagari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesharivappagari&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
