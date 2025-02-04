@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saidinesh0314@gmail.com**
 
-- ⚡ Fun fact **Stay Hungry, Stay Foolish :)**
+- 🦉 Words of Wisdom **Stay Hungry, Stay Foolish :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
