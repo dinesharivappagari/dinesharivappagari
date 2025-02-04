@@ -36,8 +36,8 @@
           
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesharivappagari&show_icons=true&locale=en&layout=compact" alt="dinesharivappagari" height='180'width='580'/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesharivappagari&show_icons=true&locale=en&layout=compact" alt="dinesharivappagari" height='180'width='480'/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinesharivappagari&show_icons=true&locale=en" alt="dinesharivappagari" height='190'width='450' /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinesharivappagari&show_icons=true&locale=en" alt="dinesharivappagari" height='190'width='650' /></p>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinesharivappagari&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) 
