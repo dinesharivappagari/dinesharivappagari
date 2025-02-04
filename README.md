@@ -2,7 +2,8 @@
 <h3 align="center">DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesharivappagari&label=Profile%20views&color=0e75b6&style=flat" alt="dinesharivappagari" /> </p>
-<p>[![trophy](https://github-profile-trophy.vercel.app/?dinesharivappagari=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?dinesharivappagari=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesharivappagari" alt="dinesharivappagari" /></a> </p>
 
