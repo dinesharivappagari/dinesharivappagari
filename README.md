@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Cloud computing, DevOps**
+- 🌱 I’m currently learning **Cloud computing, DevOps, Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinesharivappagari?tab=repositories](https://github.com/dinesharivappagari?tab=repositories)
 
