@@ -39,14 +39,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40"/>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Snowflake_Logo.svg" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_Azure_Logo.svg
-  " width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Prometheus_software_logo.svg
-  " width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.png" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/761456?s=200&v=4" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
@@ -54,6 +54,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/brain.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/teamwork.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/time.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/knight.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/dumbbell.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/news.png" width="40" height="40"/>
 </p>
 
 
