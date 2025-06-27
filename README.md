@@ -8,14 +8,12 @@
   </a>
   <a href="https://www.linkedin.com/in/dinesh0314/">
     <img src="https://img.shields.io/badge/LinkedIn-SAIDINESH%20A-blue?logo=linkedin&style=flat-square" />
-  </a>
+  <a href="https://www.linkedin.com/in/dinesh0314/">
+    <img src="https://komarev.com/ghpvc/?username=dinesharivappagari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dinesharivappagari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinesharivappagari](https://github.com/dinesharivappagari?tab=repositories)  
 - 💬 Ask me about **Cloud DevOps & Data Engineering**  
