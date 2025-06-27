@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/dinesharivappagari">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/dinesharivappagari?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/dinesh0314/">
     <img src="https://img.shields.io/badge/LinkedIn-SAIDINESH%20A-blue?logo=linkedin&style=flat-square" />
